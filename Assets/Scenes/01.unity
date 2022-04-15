@@ -53910,7 +53910,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117597345}
   m_LocalRotation: {x: 0.14694625, y: 0, z: 0, w: 0.98914456}
-  m_LocalPosition: {x: 4.9, y: 2, z: -15.5}
+  m_LocalPosition: {x: 10.82, y: 6.13, z: -21.68}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -107655,6 +107655,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HEAL
       objectReference: {fileID: 0}
+    - target: {fileID: 588557079374635941, guid: c70f1c217b36b3d4bb9e643d433048cb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c70f1c217b36b3d4bb9e643d433048cb, type: 3}
 --- !u!1001 &1113364064350313707
@@ -107723,6 +107728,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SNOW
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113364063519110050, guid: a9e8f150423fed1488f18036c0fa6504,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9e8f150423fed1488f18036c0fa6504, type: 3}
@@ -107930,6 +107940,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BUFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 4484514759295697525, guid: b6a3c4c70a052e44c977ed0265a650b3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6a3c4c70a052e44c977ed0265a650b3, type: 3}
