@@ -48,11 +48,15 @@ Material:
     - _Dissolve_Position: 3.56
     - _Dissolve_Position_uv_B: 0
     - _Fresnel_Power: 1.18
-    - _GlitchStrength: 1
+    - _GlitchStrength: 0
+    - _GlitchStrength_1: 6
+    - _Glitch_Frequency: 8.89
     - _Glitch_Streagth: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: -0.5
+    - _b_Ture_noise_False_wave: 0
+    - _b_ture_noise: 0
     m_Colors:
     - _Color: {r: 0, g: 4.2950892, b: 7.999999, a: 1}
     - _Dissolve_Color: {r: 0.6321303, g: 1.6499188, b: 3.8289042, a: 1}
