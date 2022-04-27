@@ -38,6 +38,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 06836f1caba79dd458500e930b78fdf9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Main_Normal:
+        m_Texture: {fileID: 2800000, guid: ddc747d0b4852a842b801494afc46e08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: 550fe6b9bebcc564faab146d8662bbfe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Ripple_Texture:
         m_Texture: {fileID: 2800000, guid: c223f7f4ec72cd54faf381eed9079d90, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -128,9 +136,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Normal_Strength: -1.36
+    - _Main_Normal_Strengh: 0.15
+    - _Normal_Strength: 0.54
     - _Puddle_Speed: -0.5
-    - _Puddle_Strength: 0.1
+    - _Puddle_Strength: 0.05
     - _Puddle_Tiling: 10
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -138,9 +147,9 @@ Material:
     - _Ripple_Tiling: 6
     - _Rotate_01: 0
     - _Rotate_02: -0.4
-    - _Smoothness: 0.85
+    - _Smoothness: 0.46
     - _Tiling: 5
     m_Colors:
-    - _Main_Texture_Tiling: {r: 5, g: 5, b: 0, a: 0}
+    - _Main_Texture_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling: {r: 5, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
