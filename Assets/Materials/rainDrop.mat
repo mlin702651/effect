@@ -67,14 +67,14 @@ Material:
     - _Distortion_Scale: 7.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rain_Drop_Strength: 0.005
+    - _Rain_Drop_Strength: 0.002
     - _Speed: 0.5
     - _Water_Speed: 0.4
     - _Water_Strength: 0.1
     - _Water_Tiling: 1
     m_Colors:
     - _Main_Color: {r: 1, g: 1, b: 1, a: 0}
-    - _Rain_Drop_Color: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 0}
+    - _Rain_Drop_Color: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 0}
     - _Rain_Drop_Tiling: {r: 2.47, g: 0.79, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7613932316098646011
